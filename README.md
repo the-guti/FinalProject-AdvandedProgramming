@@ -9,7 +9,7 @@
     <img src="assets/quetzalcoatl.jpg" alt="Logo Quetzalcoatl" width="385" height="300">
   </a>
 
-  <h3 align="center"><i>n</i>-body simulation</h3>
+  <h3 align="center">Quetzalcoatl Web Server</h3>
 
   <p align="center">
     A lightweight alternative to the Apache server,built in C on top of Moongose library..
@@ -22,7 +22,7 @@ We call it Quetzalcoatl, the feathered serpent, the god of wind and rain in the 
 
 ## Built With
 
-* [Mongoose](https://github.com/cesanta/mongoose/) - The web library used
+* [Mongoose](https://github.com/cesanta/mongoose/) 
 
 
 ## Authors
