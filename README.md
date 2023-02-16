@@ -5,7 +5,7 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/salochara/FinalProject-AdvandedProgramming">
+  <a href="https://github.com/the-guti/Quetzalcoatl">
     <img src="assets/quetzalcoatl.jpg" alt="Logo Quetzalcoatl" width="385" height="300">
   </a>
 
